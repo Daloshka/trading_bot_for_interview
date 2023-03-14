@@ -8,10 +8,10 @@ pip install -r requirements.txt
 
 To get your Binance API key and secret, you need to follow these steps:
 
-Sign in to your Binance account.
-Click on your profile icon and select "API Management".
-Click on "Create New API".
-Enter a label for the API key (e.g., "My Trading Bot").
-Set the IP access restrictions if needed (optional).
-Click on "Create API".
-Note down the API key and secret. Keep the secret safe as you won't be able to see it again.
+Sign in to your Binance account.<br />
+Click on your profile icon and select "API Management".<br />
+Click on "Create New API".<br />
+Enter a label for the API key (e.g., "My Trading Bot").<br />
+Set the IP access restrictions if needed (optional).<br />
+Click on "Create API".<br />
+Note down the API key and secret. Keep the secret safe as you won't be able to see it again.<br />
