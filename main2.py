@@ -44,8 +44,10 @@ while True:
         # Check if the percentage change is greater than 1% over the last 60 minutes
         percentage_change_per_hour = (current_price - price_hour_ago) / price_hour_ago * 100
         if abs(percentage_change_per_hour) > 1:
+            print("\n\n-------------------------------------")
             print(f"ETHUSDT futures price has increased by {abs(percentage_change):.2f}% over the last 60 minutes.")
             print_coint()
+            print("-------------------------------------\n\n")
                 
 
         time_hour_ago = datetime.datetime.now()
